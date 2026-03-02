@@ -1,1 +1,1 @@
-Implementation for Develop Todo Item CRUD API
+Implementation for Build User Authentication and Account Management Frontend
